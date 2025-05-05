@@ -64,5 +64,7 @@ NO, absolutely not, it's an attempt to provide tested templates to build your ow
 
 
 TODO
-Q. How to contribute?
-Q. How to suggest a new template? mini project?
+Q. How to contribute? <br>
+Q. How to suggest a new template? mini project? <br>
+
+Templates are in progress to get notifications please watch this repo.
