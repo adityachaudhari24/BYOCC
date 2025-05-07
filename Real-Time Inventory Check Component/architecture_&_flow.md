@@ -115,7 +115,7 @@ Data related to current inventory levels flows from the database to the user int
 7.  **API Response:** API Gateway serializes the JSON response and returns it as the HTTP response body to the Frontend.
 8.  **UI Update:** Frontend JavaScript parses the JSON and updates the displayed stock information.
 
-```mermaid
+``` mermaid
 graph LR
     A[Frontend (Request)] -- GET /inventory/{productId} --> B(API Gateway);
     B -- Route --> C(Lambda getInventoryLevel);
