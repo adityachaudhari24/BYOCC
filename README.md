@@ -1,7 +1,7 @@
 # BYOCC - Build Your Own Commerce Components
 
 ## What is BYOCC ?
-BYOCC (Build Your Own Commerce Components) is an open-source initiative offering templates, patterns, and reference implementations for building modular e-commerce components on public cloud platforms which can easily fit in your composable architecture, promoting MACH principles and leveraging public cloud managed services for agility and reliability.
+BYOCC (Build Your Own Commerce Components) is an open-source initiative offering templates, patterns, and reference implementations for building modular e-commerce components on public cloud platforms which can easily fit in your composable architecture, promoting MACH principles along with leveraging public cloud managed services for agility and reliability.
 
 
 # The Evolution of E-Commerce: From Monoliths to Composable Architecture
@@ -68,3 +68,12 @@ Q. How to contribute? <br>
 Q. How to suggest a new template? mini project? <br>
 
 Templates are in progress to get notifications please watch this repo.
+
+
+
+# Planned Projects 
+
+## 1. BYOCC - Commerce Search
+
+
+
