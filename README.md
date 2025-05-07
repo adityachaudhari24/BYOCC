@@ -60,7 +60,7 @@ NO, absolutely not, it's an attempt to provide tested templates to build your ow
 
 ## How to Get Started with BYOCC?
 1. **Explore the Templates**: Browse through the available templates and patterns to find components that suit your needs/scenarios. (TODO - add link to templates)
-2. **Contribute** : As its just the beginning of BYOCC, we are looking for contributors to help us build more templates and patterns. If you have experience in building commerce components or have ideas for new templates, please suggest ideas by creating an issue or pull request.
+2. **Contribute** : As it's just the beginning of BYOCC, we are looking for contributors to help build more templates and patterns. If you have experience in building commerce components or have ideas for new templates, please suggest ideas by creating an issue.
 
 
 TODO
