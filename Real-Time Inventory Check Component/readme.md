@@ -1,4 +1,4 @@
-# Real-Time Inventory Check Component
+# Real-Time Inventory Check Component README
 
 ## Overview
 
