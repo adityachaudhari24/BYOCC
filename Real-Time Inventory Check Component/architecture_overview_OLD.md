@@ -1,4 +1,4 @@
-# System Flow Document: Real-Time Inventory Check Component
+# System Architecture And Flow Document: Real-Time Inventory Check Component
 
 **Version:** 1.0
 **Date:** May 6, 2025

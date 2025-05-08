@@ -89,3 +89,22 @@
 5. Admin Interface (EP-5)
 6. Testing and Security (EP-6)
 7. Documentation and Integration (EP-7)
+   User Stories Mapping
+
+## Customer-Facing Features
+
+US-1 → EP-2
+US-2 → EP-3
+US-3 → EP-2
+Administrator Features
+
+US-4 → EP-2, EP-5
+US-5 → EP-4
+US-6 → EP-2, EP-5
+US-7 → EP-4
+E-commerce Platform Integration
+
+US-8 → EP-7
+US-9 → EP-3
+US-10 → EP-3
+US-11 → EP-7
